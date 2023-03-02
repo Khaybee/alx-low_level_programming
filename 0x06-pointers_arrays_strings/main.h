@@ -27,4 +27,8 @@ int _putchar(char);
 
 char *leet(char *);
 
+int main(void);
+
+void rev_string(char *n);
+
 #endif
