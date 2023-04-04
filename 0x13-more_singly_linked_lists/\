@@ -4,7 +4,7 @@
 
 /**
  * print_listint - Prints all elements of a list
- * @h: pointer to the list_t to print
+ * @h - pointer to the list to print
  * Return: number of nodes
  */
 
@@ -20,3 +20,4 @@ size_t print_listint(const listint_t *h)
 	}
 	return (poi);
 }
+
