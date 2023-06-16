@@ -35,8 +35,8 @@ int main() {
         }
     }
 
+    printf("Largest palindrome: %d\n", largest_palindrome);
     save_result_to_file(largest_palindrome);
 
     return 0;
 }
-
